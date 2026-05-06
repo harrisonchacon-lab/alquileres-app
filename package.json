@@ -1,5 +1,6 @@
 {
   "name": "alquileres-app",
+  "homepage": "https://harrisonchacon-lab.github.io/alquileres-app",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
