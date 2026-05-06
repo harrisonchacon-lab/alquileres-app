@@ -1,7 +1,7 @@
 {
   "name": "alquileres-app",
-  "homepage": "https://harrisonchacon-lab.github.io/alquileres-app",
   "version": "1.0.0",
+  "homepage": "https://harrisonchacon-lab.github.io/alquileres-app",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
