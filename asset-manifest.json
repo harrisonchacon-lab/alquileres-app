@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/alquileres-app/static/css/main.d3399283.css",
+    "main.js": "/alquileres-app/static/js/main.7d42a1c4.js",
+    "index.html": "/alquileres-app/index.html",
+    "main.d3399283.css.map": "/alquileres-app/static/css/main.d3399283.css.map",
+    "main.7d42a1c4.js.map": "/alquileres-app/static/js/main.7d42a1c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3399283.css",
+    "static/js/main.7d42a1c4.js"
+  ]
+}
